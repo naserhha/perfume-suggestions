@@ -120,8 +120,8 @@ This project is licensed under a **Custom NonCommercial Attribution License**.
 **Mohammad Nasser Haji Hashemabad**
 
 - Website: [mohammadnasser.com](https://mohammadnasser.com/)
-- LinkedIn: [nasserhaji](https://ir.linkedin.com/in/nasserhaji)
-- GitHub: [nasserhaji](https://github.com/nasserhaji)
+- LinkedIn: [naserhha](https://ir.linkedin.com/in/naserhha)
+- GitHub: [naserhha](https://github.com/naserhha)
 
 ## Changelog
 
